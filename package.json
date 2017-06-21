@@ -9,7 +9,7 @@
   "author": "Nidhi Gupta",
   "license": "ISC",
   "dependencies": {},
-  "devDependencies":{
+  "devDependencies": {
     "chai": "^4.0.2",
     "mocha": "^3.4.2"
   }
